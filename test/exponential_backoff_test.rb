@@ -1,3 +1,5 @@
+require 'set'
+
 require 'minitest/autorun'
 require 'mutant/minitest/coverage'
 require 'exponential_backoff'
